@@ -1,9 +1,8 @@
 #!/bin/bash -
-###############################################################
 # Author      : Christo Deale
 # Date	      : 2023-08-22
 # rhel9_errata: Utility to Inspect & Mitigate Errata Advisories
-###############################################################
+
 function menuprincipal () {
     clear
     echo " "
